@@ -3,7 +3,6 @@
 <suite name="Suite">
   <test name="JenkinsTest">
     <classes>
-      
       <class name="dfrg.jee"/>
     </classes>
   </test> <!-- Test -->
